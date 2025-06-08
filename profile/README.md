@@ -1,4 +1,4 @@
-<img src="./logo-circularian.png" align="left" width="200"/>
+<img src="./circularian-round-zoomed-transparent.png" align="left" width="200"/>
 
 ### `Circularian`
 
